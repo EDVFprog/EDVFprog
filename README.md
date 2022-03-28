@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi!! I am Eduarda 
 
-<!--
-**EDVFprog/EDVFprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on data science projects
+- 🌱 I’m currently learning ML and staticts
+- 🤔 I’m looking for help with Machine Learning and Deep learning
+- 💬 Ask me about Exploratory data analisys 
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/EDVFprog">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EDVFprog&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDVFprog&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-r" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+   <img align="right" alt="duda-pic" height="150" src="https://i.pinimg.com/originals/a6/23/9e/a6239e484c34e9a1eebfdeb6a91fc454.jpg">
+</div>
+  
+  ##
