@@ -1,9 +1,10 @@
 ### Hi!! I am Eduarda 
-
 - 🔭 I’m currently working on data science projects
 - 🌱 I’m currently learning ML and staticts
 - 🤔 I’m looking for help with Machine Learning and Deep learning
 - 💬 Ask me about Exploratory data analysis
+
+##
 
 <div align="center">
   <a href="https://github.com/EDVFprog">
