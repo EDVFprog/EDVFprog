@@ -1,6 +1,6 @@
 ### Hi!! I am Eduarda 
 - 🔭 I’m currently working on data science projects
-- 🌱 I’m currently learning ML and statistics
+- 🌱 I’m currently learning LLM's and AI
 - 💬 Ask me about Exploratory data analysis,Machine Learning and Deep learning
 
 ##
